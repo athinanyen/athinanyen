@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="(https://github.com/athinanyen/athinanyen/assets/137195932/24efac92-cb08-4777-b084-93996e76fcb1)" height="100" width="100">
+<img src="https://github.com/athinanyen/athinanyen/assets/137195932/8196dd46-fe86-4824-9fb5-1cbecd8258f1" height="100" width="100">
+
 <!--
 **athinanyen/athinanyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
